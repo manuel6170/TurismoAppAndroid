@@ -1,0 +1,12 @@
+<resources>
+    <string name="app_name">TurismoApp</string>
+    <string name="lbldescripction">Descripcion</string>
+    <string name="lbldireccion">Direccion:</string>
+    <string name="googleMaps">Google Maps</string>
+    <string name="descriptionparquecaldas">
+        Porque el plan de Comercialización está conformado por los determinantes más
+        importantes del mercado y de la organización, entre ellos resaltan la Demanda y los
+        Requerimientos del cliente por los que una empresa puede salir adelante (El éxito de
+        una empresa está en el buen estudio de estos determinantes).</string>
+
+</resources>

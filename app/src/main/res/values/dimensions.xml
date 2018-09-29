@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <dimen name="appBarSize">50dp</dimen>
+    <dimen name="textSize">21sp</dimen>
+    <dimen name="marginAppName">7dp</dimen>
+    <dimen name="margincardview">5dp</dimen>
+    <dimen name="tabIndicatorHeight">4dp</dimen>
+    <dimen name="widthCardView">166dp</dimen>
+    <dimen name="heightCardView">197dp</dimen>
+    <dimen name="cardCornerRadius">5dp</dimen>
+    <dimen name="imageCardViewheight">160dp</dimen>
+    <dimen name="textSizeCardView">12sp</dimen>
+    <dimen name="appBarLayoutDescription">300dp</dimen>
+    <dimen name="marginRightIconStar">15dp</dimen>
+    <dimen name="widthIconStar">44dp</dimen>
+    <dimen name="heightIconStar">44dp</dimen>
+    <dimen name="expandedTitleMarginStart">15dp</dimen>
+    <dimen name="expandedTitleMarginEnd">100dp</dimen>
+    <dimen name="lblSize">20sp</dimen>
+    <dimen name="lbldescripcionSize">18sp</dimen>
+    <dimen name="expandedTitleMargin">5dp</dimen>
+
+
+
+
+</resources>
